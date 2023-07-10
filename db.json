@@ -1,0 +1,41 @@
+{
+  "Login": [
+    {
+      "id": "3Zn_l59145K2rKkzAAAB",
+      "fullname": "Võ Chính Trực",
+      "job": "manager",
+      "name": "Trực",
+      "user": "Boygl34",
+      "password": "Khongbiet"
+    },
+    {
+      "id": "nmcBRo4B8ru0TCMNAAAB",
+      "fullname": "Võ Chính Trực",
+      "job": "manager",
+      "name": "Trực",
+      "user": "Boygl34",
+      "password": "Khongbiet"
+    },
+    {
+      "id": "HtP_eRlgWjG2AjKrAAAD",
+      "fullname": "Võ Chính Trực",
+      "job": "manager",
+      "name": "Trực",
+      "user": "Boygl34",
+      "password": "Khongbiet"
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "user": "Boygl34",
+      "password": "Khongbiet",
+      "job": "manager",
+      "name": "Trực",
+      "fullname": "Võ Chính Trực"
+    }
+  ],
+  "XeTrongXuong": [],
+  "XeDaGiao": [],
+  "ThongTinXe": []
+}
